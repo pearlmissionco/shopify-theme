@@ -1,0 +1,774 @@
+{
+  "general": {
+    "password_page": {
+      "login_form_heading": "비밀번호로 스토어 입장:",
+      "login_password_button": "비밀번호로 입장",
+      "login_form_password_label": "비밀번호",
+      "login_form_password_placeholder": "비밀번호를 입력하세요",
+      "login_form_error": "비밀번호가 올바르지 않습니다!",
+      "login_form_submit": "입장",
+      "admin_link_html": "스토어 운영자이신가요? <a href=\\",
+      "powered_by_shopify_html": "이 스토어는 {{ shopify }}로 운영됩니다"
+    },
+    "product_list": {
+      "title": "뉴 서머"
+    },
+    "social": {
+      "alt_text": {
+        "share_on_facebook": "Facebook에서 공유",
+        "share_on_twitter": "Twitter에 게시",
+        "share_on_pinterest": "Pinterest에 고정",
+        "copy_link": "링크 복사"
+      },
+      "links": {
+        "twitter": "Twitter에서 공유",
+        "facebook": "Facebook에서 공유",
+        "pinterest": "Pinterest에서 공유",
+        "instagram": "인스타그램",
+        "tumblr": "텀블러",
+        "snapchat": "스냅챗",
+        "youtube": "YouTube",
+        "vimeo": "Vimeo",
+        "tiktok": "TikTok",
+        "google": "Google에서 공유"
+      }
+    },
+    "times": {
+      "days": "일",
+      "hrs": "hrs",
+      "mins": "분",
+      "secs": "초"
+    },
+    "continue_shopping": "Continue shopping",
+    "pagination": {
+      "label": "사이드바 열기",
+      "page": "페이지",
+      "next": "Next page",
+      "previous": "Previous page"
+    },
+    "breadcrumb": {
+      "home": "Home"
+    },
+    "mobile_sticky": {
+      "shop": "Shop"
+    },
+    "search": {
+      "search": "I'm looking for…",
+      "more_results": "More Results",
+      "quick_search": "Quick Search:",
+      "all_categories": "All Categories",
+      "popular_products": "Popular Products",
+      "results_with_count": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "filters": "Use fewer filters or remove all",
+      "remove_all": "remove all",
+      "title": "뉴 서머"
+    },
+    "cart": {
+      "view": "View my cart ({{ count }})",
+      "item_added": "Item added to your cart",
+      "title": "뉴 서머",
+      "close": "닫기",
+      "subtitle": "장바구니가 비어 있습니다.",
+      "description": "상품 설명",
+      "timeout_message": "You're out of time! Checkout now to avoid losing your order!",
+      "countdown_message_html": "Products are limited, checkout within {{ html }}",
+      "countdown_cart_message_html": "Please, hurry! Someone has placed an order on one of the items you have in the cart. Products are limited, checkout within {{ html }}",
+      "cart_thres1_html": "Free Shipping for all orders over <span class=\"price\">{{ price }}</span>",
+      "cart_thres2_html": "무료 배송까지 <span class=\\",
+      "cart_thres3_html": "<span class=\\",
+      "free_shipping": "무료 배송까지 <span class=\\",
+      "free_shipping_avaiable": "축하합니다! 무료 배송이 적용되었습니다",
+      "terms_conditions_text": "이용약관",
+      "return_shop": "쇼핑으로 돌아가기",
+      "remove": "이 상품 삭제",
+      "edit": "수정",
+      "subtotal": "소계",
+      "viewcart": "장바구니 보기",
+      "checkout": "결제하기",
+      "save": "절약 금액",
+      "cancel": "취소",
+      "note": {
+        "title": "뉴 서머"
+      },
+      "gift": {
+        "title": "뉴 서머",
+        "gift_wrap_html": "상품을 정성스럽게 포장해 드립니다. 비용은 <span class=\\",
+        "button_text": "선물 포장 추가"
+      },
+      "shipping": {
+        "title": "뉴 서머",
+        "estimate_shipping_title": "배송비 계산",
+        "estimate_shipping_button": "계산"
+      },
+      "coupon": {
+        "title": "뉴 서머",
+        "enter_discount_code": "쿠폰 코드"
+      },
+      "delivery_days": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      }
+    },
+    "share": {
+      "close": "닫기",
+      "copy_to_clipboard": "링크 복사",
+      "share_url": "링크",
+      "success_message": "링크가 클립보드에 복사되었습니다"
+    },
+    "slider": {
+      "of": "총",
+      "next_slide": "다음 슬라이드",
+      "previous_slide": "이전 슬라이드"
+    },
+    "product_name": "Umino by Blueskytechco",
+    "accessibility": {
+      "unit_price_separator": "개당"
+    },
+    "show_all": "전체 보기",
+    "show_less": "접기"
+  },
+  "brands": {
+    "all": "전체 보기"
+  },
+  "carrer": {
+    "location": "근무지:",
+    "date": "2022년 10월 13일",
+    "income": "급여:",
+    "loadmore": "더 보기",
+    "showing": "표시 중",
+    "of": "총",
+    "carrer": "채용"
+  },
+  "page_sale": {
+    "use_code": "코드 사용:"
+  },
+  "newsletter": {
+    "label": "사이드바 열기",
+    "success": "비밀번호 변경 링크를 이메일로 발송했습니다.",
+    "button_label": "구독",
+    "placeholder": "이메일 주소를 입력하세요..."
+  },
+  "accessibility": {
+    "skip_to_text": "본문으로 건너뛰기",
+    "skip_to_product_info": "상품 정보로 건너뛰기",
+    "close": "닫기",
+    "unit_price_separator": "개당",
+    "vendor": "브랜드",
+    "error": "오류",
+    "refresh_page": "옵션 선택 시 페이지가 새로고침됩니다.",
+    "link_messages": {
+      "new_window": "새 창에서 열립니다.",
+      "external": "외부 웹사이트로 이동합니다."
+    },
+    "loading": "로딩 중...",
+    "total_reviews": "총 리뷰",
+    "star_reviews_info": "{{ rating_value }} out of {{ rating_max }} stars",
+    "collapsible_content_title": "접이식 콘텐츠"
+  },
+  "blogs": {
+    "article": {
+      "blog": "블로그",
+      "read_more_title": "더 읽기: {{ title }}",
+      "comments": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "sharing": {
+        "twitter": "Twitter에서 공유",
+        "facebook": "Facebook에서 공유",
+        "google": "Google에서 공유",
+        "linkedin": "LinkedIn에서 공유",
+        "pinterest": "Pinterest에서 공유"
+      },
+      "share": "공유",
+      "empty": "상품이 없습니다",
+      "tags": "태그",
+      "previous_post": "이전 글",
+      "next_post": "다음 글",
+      "moderated": "댓글은 게시 전에 관리자 승인 후 노출됩니다.",
+      "comment_form_title": "댓글 남기기",
+      "name": "이름",
+      "email": "이메일",
+      "message": "메시지",
+      "post": "댓글 등록",
+      "back_to_blog": "블로그로 돌아가기",
+      "success": "비밀번호 변경 링크를 이메일로 발송했습니다.",
+      "success_moderated": "댓글이 등록되었습니다. 검토 후 게시됩니다."
+    },
+    "portfolio": {
+      "comment": {
+        "label_heading": "이메일 주소는 공개되지 않습니다. 필수 입력 항목은 *로 표시됩니다.",
+        "label_name": "이름*",
+        "label_email": "이메일*",
+        "label_cmt": "댓글을 입력해 주세요*"
+      }
+    }
+  },
+  "onboarding": {
+    "product_title": "상품",
+    "collection_title": "컬렉션명"
+  },
+  "collection": {
+    "count_html": "{{ count }}<span>개 상품<\\/span>",
+    "counts_html": "{{ count }}<span>개 상품<\\/span>",
+    "collection_title": "컬렉션명",
+    "collection_link": "컬렉션 보기",
+    "shop_now": "지금 쇼핑",
+    "heading_section": {
+      "read_more": "더 읽기",
+      "read_less": "접기"
+    },
+    "section_collection_menu": {
+      "title": "뉴 서머",
+      "menu": "메뉴"
+    }
+  },
+  "products": {
+    "product": {
+      "product_placeholder": "상품명",
+      "product_placeholder_short_desc": "이 영역에 상품 핵심 정보를 간결하게 작성하세요. 외관, 소재, 컬러, 사이즈 옵션, 제조 원산지 등을 안내하고, 디자인 포인트와 질감을 강조해 주세요.",
+      "add_to_cart": "장바구니 담기",
+      "buy_it_now": "바로 구매",
+      "stock_notify_label": "재입고 알림 받기",
+      "stock_notify_text_popup": "재입고 시 이메일 알림을 받으려면 등록해 주세요",
+      "stock_notify_label_popup": "재입고 알림",
+      "stock_notify_title_popup": "재입고 알림 신청",
+      "stock_notify_message": "이 상품이 재입고되면 알려주세요",
+      "stock_notify_success": "등록해 주셔서 감사합니다! 재입고 시 이메일로 안내드리겠습니다.",
+      "add_cart_error_qty": "수량을 선택해 주세요!",
+      "choose_options": "옵션 선택",
+      "choose_product_options": "{{ product_name }} 옵션 선택",
+      "remove_wishlist": "위시리스트에서 삭제",
+      "wishlist": "위시리스트",
+      "browse_wishlist": "위시리스트 보기",
+      "remove_compare": "비교에서 삭제",
+      "compare": "비교",
+      "browse_compare": "비교 목록 보기",
+      "quickview": "빠른 보기",
+      "description": "상품 설명",
+      "on_sale": "세일",
+      "product_variants": "상품 옵션",
+      "select_tab": "현재 탭",
+      "zoom_in": "확대",
+      "hurry_up_message": "서두르세요! 세일 종료까지",
+      "unit_price_label": "단가",
+      "view_in_space": "내 공간에서 보기",
+      "back_to_product": "상품 목록으로 돌아가기",
+      "more_info": "상세 보기",
+      "view_in_space_label": "AR 창에서 상품을 확인합니다",
+      "media": {
+        "gallery_viewer": "갤러리 뷰어",
+        "load_image": "갤러리 보기에서 이미지 {{ index }} 불러오기",
+        "load_model": "갤러리 보기에서 3D 모델 {{ index }} 불러오기",
+        "load_video": "동영상 불러오기: {{ description }}",
+        "image_available": "이미지 {{ index }}를 갤러리 보기에서 확인할 수 있습니다",
+        "open_media": "모달에서 미디어 {{ index }} 열기",
+        "play_model": "3D 뷰어 재생",
+        "play_video": "동영상 재생"
+      },
+      "label": {
+        "subscription": "구독",
+        "sale": "세일!"
+      },
+      "quantity": {
+        "label": "사이드바 열기",
+        "input_label": "{{ product }} 수량",
+        "increase": "{{ product }} 수량 증가",
+        "decrease": "{{ product }} 수량 감소",
+        "minimum_of": "최소 수량 {{ quantity }}",
+        "maximum_of": "최대 수량 {{ quantity }}",
+        "multiples_of": "{{ quantity }} 단위 구매",
+        "in_cart_html": "장바구니에 <span class=\\",
+        "note": "주문 메모 추가"
+      },
+      "pickup_availability": {
+        "view_store_info": "매장 정보 보기",
+        "check_other_stores": "다른 매장 재고 확인",
+        "pick_up_available": "매장 픽업 가능",
+        "pick_up_available_at_html": "<span class=\\",
+        "pick_up_unavailable_at_html": "<span class=\\",
+        "unavailable": "구매 불가",
+        "refresh": "새로고침",
+        "pickup_location": "Google 지도에서 보기",
+        "address": "주소",
+        "city": "도시",
+        "country": "국가\\/지역",
+        "phone": "전화번호"
+      },
+      "price": {
+        "from_price_html": "{{ price }}부터",
+        "regular_price": "정가",
+        "sale_price": "할인가",
+        "unit_price": "단가"
+      },
+      "bought_together": {
+        "add_cart": "선택 상품 장바구니 담기",
+        "text": "함께 자주 구매한 상품",
+        "total": "합계",
+        "save": "절약 금액"
+      },
+      "product_title": "상품",
+      "sold_in_last_html": "최근 <span class=\\",
+      "sold_out": "품절",
+      "read_more": "더 읽기",
+      "pre_order": "예약 주문",
+      "availability": "재고 상태",
+      "unavailable": "구매 불가",
+      "available": "구매 가능",
+      "vendor": "브랜드",
+      "tags": "태그",
+      "sku": "SKU",
+      "barcode": "바코드",
+      "type": "유형",
+      "collections": "컬렉션",
+      "size": "사이즈",
+      "color": "색상",
+      "review": "리뷰",
+      "review_app": "고객 리뷰",
+      "instock": "재고 있음",
+      "size_guide": "사이즈 가이드",
+      "askquestion": "문의하기",
+      "share": "공유",
+      "compare_color": "색상 비교",
+      "compare_color_empty": "비교할 색상/패턴을 클릭하세요. 이미지는 드래그하여 순서를 변경할 수 있습니다",
+      "outstock": "재고 없음",
+      "video_exit_message": "{{ title }} 전체화면 영상이 같은 창에서 열립니다.",
+      "view_full_details": "전체 상세 보기",
+      "xr_button": "내 공간에서 보기",
+      "xr_button_label": "AR 창에서 상품을 확인합니다",
+      "include_taxes": "세금 포함",
+      "shipping_policy_html": "<a href=\\"
+    },
+    "modal": {
+      "label": "사이드바 열기"
+    },
+    "sidebar": {
+      "label": "사이드바 열기",
+      "title_canvas": "사이드바"
+    },
+    "facets": {
+      "apply": "적용",
+      "clear": "지우기",
+      "clear_all": "모두 지우기",
+      "from": "최소",
+      "filter_and_sort": "필터 및 정렬",
+      "filter_by_label": "필터:",
+      "filter_button": "필터",
+      "filters_selected": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "filter_selected_accessibility": "{{ type }} (필터 {{ count }}개 선택됨)",
+      "show_more": "더 보기",
+      "show_less": "접기",
+      "max_price": "최고 가격은 {{ price }}입니다",
+      "product_count": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "product_count_simple": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "reset": "초기화",
+      "sort_button": "정렬",
+      "sort_by_label": "정렬 기준:",
+      "sort_by_label_mb": "정렬 기준",
+      "to": "최대",
+      "clear_filter": "필터 제거"
+    },
+    "price": {
+      "regular_price": "정가",
+      "sale_price": "할인가"
+    }
+  },
+  "templates": {
+    "search": {
+      "no_results": "“{{ terms }}”에 대한 검색 결과가 없습니다. 철자를 확인하거나 다른 키워드로 검색해 주세요.",
+      "page": "페이지",
+      "products": "상품",
+      "tooltip": "검색",
+      "results_with_count": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "results_with_count_and_term": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      },
+      "title": "뉴 서머",
+      "search_for_html": "“<span>{{ terms }}<\\/span>” 검색 결과",
+      "search_empty_html": "“<span>{{ terms }}<\\/span>”에 일치하는 결과가 없습니다",
+      "suggestions": "추천 검색어",
+      "pages": "페이지",
+      "article": "아티클"
+    },
+    "cart": {
+      "cart": "장바구니"
+    },
+    "rvp": {
+      "title": "뉴 서머",
+      "rvp": "최근 본 상품",
+      "no_product": "비교 페이지에 추가된 상품이 없습니다.",
+      "redirect": "쇼핑으로 돌아가기"
+    },
+    "wishlist": {
+      "wishlist": "위시리스트",
+      "no_product": "비교 페이지에 추가된 상품이 없습니다.",
+      "redirect": "쇼핑으로 돌아가기",
+      "title_remove": "삭제 전에 위시리스트에 추가하시겠어요?",
+      "action_yes": "예",
+      "action_no": "아니오"
+    },
+    "compare": {
+      "no_product": "비교 페이지에 추가된 상품이 없습니다.",
+      "redirect": "쇼핑으로 돌아가기"
+    },
+    "recently_viewed": {
+      "recently_viewed_products": "최근 본 상품"
+    },
+    "contact": {
+      "form": {
+        "title": "뉴 서머",
+        "name": "이름",
+        "email": "이메일",
+        "phone": "전화번호",
+        "comment": "문의 내용",
+        "send": "지금 제출",
+        "send_message": "메시지 보내기",
+        "post_success": "문의해 주셔서 감사합니다. 최대한 빠르게 답변드리겠습니다.",
+        "error_heading": "다음 항목을 확인해 주세요:",
+        "save_info": "다음 댓글 작성을 위해 이 브라우저에 이름, 이메일, 웹사이트를 저장합니다.",
+        "subscribe_success": "구독해 주셔서 감사합니다!",
+        "subscribe_error": "이미 등록된 이메일입니다!",
+        "page_contact_successs": "감사합니다! 요청이 접수되었으며, 해당 상품이 재입고되면 곧 안내드리겠습니다!"
+      }
+    },
+    "404": {
+      "title": "뉴 서머",
+      "subtext": "기프트카드"
+    }
+  },
+  "sections": {
+    "custom_content_readmore": "더 보기",
+    "shopable_video": {
+      "default_content": "영상을 업로드하고 특정 상품과 연결해 주세요."
+    },
+    "header": {
+      "announcement": "공지",
+      "menu": "메뉴",
+      "cart_count": {
+        "one": "{{ count }}개",
+        "other": "{{ count }}개"
+      }
+    },
+    "cart": {
+      "title": "뉴 서머",
+      "caption": "장바구니 상품",
+      "remove_title": "삭제",
+      "subtotal": "소계",
+      "new_subtotal": "변경된 소계",
+      "note": "주문 메모 추가",
+      "security_image": "안전한 쇼핑 보장",
+      "checkout": "결제하기",
+      "empty": "상품이 없습니다",
+      "cart_error": "장바구니 업데이트 중 오류가 발생했습니다. 다시 시도해 주세요.",
+      "cart_quantity_error_html": "이 상품은 장바구니에 최대 {{ quantity }}개까지 담을 수 있습니다.",
+      "taxes_and_shipping_policy_at_checkout_html": "세금 및 <a href=\\",
+      "taxes_included_but_shipping_at_checkout": "세금 포함, 배송비는 결제 단계에서 계산됩니다",
+      "taxes_included_and_shipping_policy_html": "세금 포함. <a href=\\",
+      "taxes_and_shipping_at_checkout": "세금 및 배송비는 결제 단계에서 계산됩니다",
+      "no_shipping": "해당 주소로는 배송이 불가합니다.",
+      "shipping_rate": "{{address}} 배송비",
+      "quick_edit": "옵션 수정",
+      "headings": {
+        "product": "상품",
+        "price": "가격",
+        "total": "합계",
+        "quantity": "수량",
+        "image": "상품 이미지"
+      },
+      "add_cart_error": "죄송합니다! 재고가 부족합니다.",
+      "add_gift_card_error": "수신자 이메일은 비워둘 수 없습니다.",
+      "add_gift_card_day_error": "발송일은 오늘 기준 90일 이내여야 합니다",
+      "update": "주소 업데이트",
+      "login": {
+        "title": "뉴 서머",
+        "paragraph_html": "더 빠른 결제를 위해 <a href=\\"
+      }
+    },
+    "footer": {
+      "payment": "결제 수단"
+    },
+    "featured_blog": {
+      "view_all": "전체 보기",
+      "onboarding_title": "블로그 게시글",
+      "onboarding_content": "고객에게 블로그 글 요약을 보여주세요"
+    },
+    "featured_collection": {
+      "view_all": "전체 보기",
+      "view_all_label": "{{ collection_name }} 컬렉션의 전체 상품 보기",
+      "slider": "슬라이더"
+    },
+    "collection_list": {
+      "view_all": "전체 보기"
+    },
+    "collection_template": {
+      "empty": "상품이 없습니다",
+      "title": "뉴 서머",
+      "use_fewer_filters_html": "필터 수를 줄이거나 <a class=\\"
+    },
+    "video": {
+      "load_video": "동영상 불러오기: {{ description }}"
+    },
+    "slideshow": {
+      "load_slide": "슬라이드 불러오기",
+      "previous_slideshow": "이전 슬라이드",
+      "next_slideshow": "다음 슬라이드",
+      "pause_slideshow": "슬라이드쇼 일시정지",
+      "play_slideshow": "슬라이드쇼 재생",
+      "carousel": "캐러셀",
+      "slide": "슬라이드"
+    },
+    "times_bn": {
+      "days": "일",
+      "hour": "시간",
+      "mins": "분",
+      "secs": "초"
+    },
+    "button_comparison": {
+      "before": "이전",
+      "after": "이후"
+    },
+    "page": {
+      "title": "뉴 서머"
+    }
+  },
+  "localization": {
+    "country_label": "국가\\/지역",
+    "language_label": "언어",
+    "update_language": "언어 변경",
+    "update_country": "국가\\/지역 변경"
+  },
+  "customer": {
+    "account": {
+      "title": "뉴 서머",
+      "dashboard": "대시보드",
+      "details": "계정 정보",
+      "view_addresses": "주소 보기",
+      "your_addresses": "내 주소",
+      "your_wishlist": "내 위시리스트",
+      "return": "계정 정보로 돌아가기",
+      "welcome": "환영합니다",
+      "no": "아니신가요?"
+    },
+    "account_fallback": "계정",
+    "activate_account": {
+      "title": "뉴 서머",
+      "subtext": "기프트카드",
+      "password": "비밀번호",
+      "password_confirm": "비밀번호 확인",
+      "submit": "비밀번호 재설정",
+      "cancel": "취소",
+      "or": "또는"
+    },
+    "addresses": {
+      "title": "뉴 서머",
+      "default": "기본 주소",
+      "add_new": "새 주소 추가",
+      "edit_address": "주소 수정",
+      "first_name": "이름",
+      "last_name": "성",
+      "company": "회사명",
+      "address1": "주소 1",
+      "address2": "주소 2",
+      "city": "도시",
+      "country": "국가\\/지역",
+      "province": "시\\/도",
+      "zip": "우편번호",
+      "phone": "전화번호",
+      "set_default": "기본 주소로 설정",
+      "add": "주소 추가",
+      "update": "주소 업데이트",
+      "cancel": "취소",
+      "edit": "수정",
+      "delete": "삭제",
+      "delete_confirm": "이 주소를 삭제하시겠습니까?",
+      "name": "이름",
+      "email": "이메일"
+    },
+    "log_in": "로그인",
+    "log_out": "로그아웃",
+    "login_menu_mobile": "로그인 \\/ 회원가입",
+    "login_page": {
+      "cancel": "취소",
+      "create_account": "회원가입",
+      "email": "이메일",
+      "forgot_password": "비밀번호를 잊으셨나요?",
+      "guest_continue": "계속하기",
+      "guest_title": "비회원으로 계속",
+      "password": "비밀번호",
+      "title": "뉴 서머",
+      "sign_in": "로그인",
+      "submit": "비밀번호 재설정",
+      "placeholder_email": "이메일*",
+      "placeholder_pass": "비밀번호*"
+    },
+    "order": {
+      "title": "뉴 서머",
+      "date_html": "주문일: {{ date }}",
+      "cancelled_html": "{{ date }} 주문 취소",
+      "cancelled_reason": "사유: {{ reason }}",
+      "billing_address": "청구지 주소",
+      "payment_status": "결제 상태",
+      "shipping_address": "배송지 주소",
+      "fulfillment_status": "배송 상태",
+      "discount": "할인",
+      "shipping": "배송",
+      "tax": "세금",
+      "product": "상품",
+      "sku": "SKU",
+      "price": "가격",
+      "quantity": "수량",
+      "total": "합계",
+      "fulfilled_at_html": "배송 완료: {{ date }}",
+      "track_shipment": "배송 추적",
+      "tracking_url": "추적 링크",
+      "tracking_company": "택배사",
+      "tracking_number": "운송장 번호",
+      "subtotal": "소계",
+      "total_duties": "관세"
+    },
+    "orders": {
+      "title": "뉴 서머",
+      "order_number": "주문",
+      "order_number_link": "주문 번호 {{ number }}",
+      "date": "2022년 10월 13일",
+      "payment_status": "결제 상태",
+      "fulfillment_status": "배송 상태",
+      "total": "합계",
+      "make": "첫 주문을 시작해 보세요.",
+      "none": "아직 주문 내역이 없습니다."
+    },
+    "recover_password": {
+      "title": "뉴 서머",
+      "email": "이메일",
+      "submit": "비밀번호 재설정",
+      "subtext": "기프트카드",
+      "success": "비밀번호 변경 링크를 이메일로 발송했습니다."
+    },
+    "register": {
+      "title": "뉴 서머",
+      "first_name": "이름",
+      "last_name": "성",
+      "email": "이메일",
+      "password": "비밀번호",
+      "submit": "비밀번호 재설정",
+      "title_content": "신규 고객",
+      "content": "신상품, 트렌드, 프로모션 소식을 가장 먼저 받아보세요. 수신 거부는 이메일의 구독 해지 링크에서 가능합니다.",
+      "content_form": "입력하신 개인정보는 계정 접근 관리 및 사이트 이용 경험 향상을 위해 사용되며, 자세한 내용은 개인정보처리방침을 참고해 주세요."
+    },
+    "reset_password": {
+      "title": "뉴 서머",
+      "subtext": "기프트카드",
+      "password": "비밀번호",
+      "password_confirm": "비밀번호 확인",
+      "submit": "비밀번호 재설정"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "뉴 서머",
+      "subtext": "기프트카드",
+      "gift_card_code": "기프트카드 코드",
+      "shop_link": "쇼핑 계속하기",
+      "remaining_html": "잔액 {{ balance }}",
+      "add_to_apple_wallet": "Apple Wallet에 추가",
+      "qr_image_alt": "기프트카드 사용을 위한 QR 코드",
+      "copy_code": "코드 복사",
+      "expired": "만료됨",
+      "copy_code_success": "코드가 복사되었습니다",
+      "print_gift_card": "인쇄"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox": "선물로 보내기",
+      "expanded": "기프트카드 수신자 폼 열림",
+      "collapsed": "기프트카드 수신자 폼 닫힘",
+      "email_label": "수신자 이메일...",
+      "email_label_optional_for_no_js_behavior": "수신자 이메일 (선택)",
+      "email": "이메일",
+      "name_label": "수신자 이름 (선택)...",
+      "name": "이름",
+      "message_label": "메시지 (선택)...",
+      "message": "메시지",
+      "max_characters": "최대 {{ max_chars }}자",
+      "send_on": "YYYY-MM-DD",
+      "send_on_label": "발송일 (선택)"
+    }
+  },
+  "main_menu": {
+    "horizontal": {
+      "close": "닫기",
+      "title": "뉴 서머"
+    },
+    "vertical": {
+      "title": "뉴 서머",
+      "close": "닫기",
+      "more": "전체 카테고리",
+      "hide": "카테고리 숨기기"
+    },
+    "categories": {
+      "close": "닫기",
+      "title": "뉴 서머"
+    },
+    "currency": {
+      "title": "뉴 서머"
+    },
+    "language": {
+      "title": "뉴 서머"
+    }
+  },
+  "collections": {
+    "sidebar": {
+      "clear_all": "모두 지우기"
+    },
+    "pagination": {
+      "load_more": "더 보기",
+      "load_more_amount": "총 {{ count }}개 중 {{ amount }}개 표시"
+    },
+    "toolbar": {
+      "filter": "필터",
+      "progress_bar": {
+        "list": "리스트",
+        "grid": "그리드",
+        "columns": "{{ amount }}열"
+      }
+    }
+  },
+  "blog_post": {
+    "category": "뉴스",
+    "title": "뉴 서머",
+    "short_content": "일상을 더 편하게 만들어 주는 이야기를 소개합니다. 거실 창가의 타일과 주방으로 이어지는 공간 동선까지, 라이프스타일의 디테일을 담았습니다...",
+    "date": "2022년 10월 13일",
+    "post_by": "작성자",
+    "author": "Blueskytech",
+    "read_more": "더 읽기"
+  },
+  "popup": {
+    "do_not": "이 팝업 다시 보지 않기",
+    "copy": "쿠폰 코드 복사",
+    "copied": "복사됨"
+  },
+  "before_you_leave": {
+    "recommended": "추천 상품"
+  },
+  "fake_order": {
+    "purchased": "구매함",
+    "time_minutes": "분 전"
+  }
+}

@@ -1,0 +1,25 @@
+{% if localization.available_languages.size > 1 %}
+  {%- assign switcher_class = class | default: '' -%}
+  <localization-form>
+    {%- assign form_id = 'localization-language-' | append: section.id -%}
+    {% form 'localization', id: form_id %}
+      <div class="language-switcher-buttons {{ switcher_class }}" role="group" aria-label="{{ 'main_menu.language.title' | t }}">
+        {% for language in localization.available_languages %}
+          <button
+            type="submit"
+            name="language_code"
+            value="{{ language.iso_code }}"
+            class="language-switcher-button{% if language.iso_code == localization.language.iso_code %} is-active{% endif %}"
+            {% if language.iso_code == localization.language.iso_code %}
+              aria-current="true"
+            {% endif %}
+            aria-label="{{ language.endonym_name }}"
+          >
+            <span class="language-switcher-code">{{ language.iso_code | upcase }}</span>
+            <span class="language-switcher-name">{{ language.endonym_name }}</span>
+          </button>
+        {% endfor %}
+      </div>
+    {% endform %}
+  </localization-form>
+{% endif %}

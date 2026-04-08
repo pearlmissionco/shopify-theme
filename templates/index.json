@@ -1,0 +1,695 @@
+{
+  "sections": {
+    "0c521c75-5d82-4dd6-aecc-f519d8907411": {
+      "type": "slideshow",
+      "blocks": {
+        "slider_item_nP9Mcp": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify://shop_images/4_2b1b45e1-07fd-41bc-b205-73074b735f9b.png",
+            "image_mobile": "shopify://shop_images/3_7a1f0e49-e141-45a6-9fbb-89e4b10da1ce.png",
+            "content_box": "content_in_container_fluid",
+            "content_custom_width": true,
+            "content_width": 40,
+            "content_background_color": "",
+            "content_opacity": 100,
+            "horizontal_position": "left_position",
+            "vertical_position": "bottom_position",
+            "slider_effect": "effect_fadeindown",
+            "text_alignment": "left",
+            "text_alignment_on_mobile": "center",
+            "subheading": "LUXE Collection",
+            "title": "Everyday Elegance",
+            "description": "<p>Refined freshwater and baroque pearls in sterling silver or 18K gold vermeil. Lightweight, versatile pieces for daily beauty that layer effortlessly.</p>",
+            "image_link": "shopify://collections/luxe",
+            "button_text": "Discover Luxe",
+            "button_type": "link"
+          }
+        },
+        "4d89f9ff-8153-4b4a-a089-ccb19f702450": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify://shop_images/4_53e0ae20-cd90-45ff-85df-413f0a355616.png",
+            "image_mobile": "shopify://shop_images/4.png",
+            "content_box": "content_in_container_fluid",
+            "content_custom_width": true,
+            "content_width": 50,
+            "content_background_color": "",
+            "content_opacity": 100,
+            "horizontal_position": "left_position",
+            "vertical_position": "bottom_position",
+            "slider_effect": "effect_fadeinup",
+            "text_alignment": "left",
+            "text_alignment_on_mobile": "center",
+            "subheading": "GLORY Collection",
+            "title": "Moments That Matter",
+            "description": "<p>Statement pieces with bolder presence for milestones, celebrations, and gifts they'll treasure. Expressions of refined luxury for your most meaningful occasions.</p>",
+            "image_link": "shopify://collections/glory",
+            "button_text": "Discover Glory",
+            "button_type": "link"
+          }
+        }
+      },
+      "block_order": ["slider_item_nP9Mcp", "4d89f9ff-8153-4b4a-a089-ccb19f702450"],
+      "settings": {
+        "container": "full-width",
+        "slide_height": "adapt",
+        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
+        "image_behavior": "none",
+        "eb_vertical_menu": false,
+        "height_dk": 850,
+        "height_tb": 650,
+        "height_mb": 400,
+        "heading_font_size": "40",
+        "heading_font_weight": "default",
+        "subheading_font_size": "14",
+        "subheading_font_weight": "500",
+        "description_font_size": "16",
+        "description_font_weight": "400",
+        "button_font_size": 12,
+        "button_font_weight": "400",
+        "design": "s-text-overlay-image",
+        "reset_color_mb": false,
+        "show_arrow_desktop": false,
+        "show_arrow_mobile": false,
+        "show_bullet_desktop": true,
+        "show_bullet_mobile": true,
+        "autoplay": true,
+        "autorotate_speed": 7,
+        "enable_effect": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "icon_box_wbiFcY": {
+      "type": "icon-box",
+      "blocks": {
+        "iconbox_rwghMj": {
+          "type": "iconbox",
+          "settings": {
+            "icon": "shopify://shop_images/Pearl_Mission_9.png",
+            "heading": "Genuine Pearls",
+            "description": "<p>Natural freshwater and baroque pearls, each selected for luster and character. No synthetics, ever.</p>"
+          }
+        },
+        "iconbox_jh3bCd": {
+          "type": "iconbox",
+          "settings": {
+            "icon": "shopify://shop_images/15.png",
+            "heading": "Solid Metals",
+            "description": "<p>Sterling silver and 18K gold vermeil—substantial, lasting settings that honor each pearl.</p>"
+          }
+        },
+        "iconbox_VJh9TF": {
+          "type": "iconbox",
+          "settings": {
+            "icon": "shopify://shop_images/14.png",
+            "heading": "Daily Wear",
+            "description": "<p>Lightweight, versatile pieces designed to move with you—workday elegance without sacrifice.</p>"
+          }
+        }
+      },
+      "block_order": ["iconbox_rwghMj", "iconbox_jh3bCd", "iconbox_VJh9TF"],
+      "name": "t:sections.image-box.name",
+      "settings": {
+        "heading_logo_svg": "",
+        "subheading": "Why Pearl Mission",
+        "heading": "",
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "scheme-6616aa44-7b5e-4f3f-9afe-860805c889bb",
+        "custom_column": 3,
+        "column_gap": 50,
+        "icon_width": 46,
+        "icon_spacing": 20,
+        "ib_h_font_size": 20,
+        "ib_h_font_weight": "default",
+        "ib_spacing": 3,
+        "ib_desc_font_size": 14,
+        "ib_img_view": "default",
+        "img_position": "position-left",
+        "content_text_alignment": "text-left",
+        "padding_top": 44,
+        "padding_bottom": 24,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_GN8Uh8": {
+      "type": "products-carousel",
+      "custom_css": [],
+      "name": "t:sections.products-carousel.name",
+      "settings": {
+        "heading_logo_svg": "",
+        "subheading": "Curated Selection",
+        "heading": "Our Best Styles",
+        "description": "<p>Bestsellers and showstoppers from both Luxe and Glory collections. Start here to discover your Pearl Mission essentials.</p>",
+        "text_alignment": "text-left",
+        "container": "strecth-width",
+        "color_scheme": "",
+        "collection": "luxe",
+        "limit_products": 8,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "item_mobile": false,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": true,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": true,
+        "view_all_enable": true,
+        "text_view_all": "View full collection",
+        "enable_banner": false,
+        "banner_type": "image",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "banner_position": "position-left",
+        "banner_link": "",
+        "banner_width": 30,
+        "padding_top": 46,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "48263d1a-f37b-4715-893a-ac5dfd296a1a": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Earrings · Studs to drops",
+            "collection": "earrings",
+            "image": "shopify://shop_images/065___3.png"
+          }
+        },
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Bracelets · Layer-friendly",
+            "collection": "bracelets",
+            "image": "shopify://shop_images/062___3.png"
+          }
+        },
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Rings · Quiet shine",
+            "collection": "rings",
+            "image": "shopify://shop_images/039___2_e232015e-efe9-44bb-bc09-d0b3e250fd8c.png"
+          }
+        },
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Necklaces · Everyday icons",
+            "collection": "necklaces",
+            "image": "shopify://shop_images/241___2_e0e39e0e-03c5-42e9-b56e-d9234e0d41e7.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0",
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1",
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2",
+        "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3"
+      ],
+      "custom_css": [".design-2 .bls__collection-infor {text-align: left;}"],
+      "settings": {
+        "heading_logo_svg": "",
+        "heading": "Shop by category",
+        "description": "<p>Choose a silhouette—every piece is built around natural pearls and precious metals.</p>",
+        "text_alignment": "text-center",
+        "container": "strecth-width",
+        "color_scheme": "",
+        "design_layout": "grid",
+        "design_collection": "design-3",
+        "hover_effect": "zoom",
+        "show_count_product": false,
+        "custom_width_images": false,
+        "width_image": 200,
+        "images_style": false,
+        "image_ratio": "3/4",
+        "custom_ratio": "476:450",
+        "custom_column": 4,
+        "column_gap": 30,
+        "collection_font_size": 20,
+        "collection_font_weight": 400,
+        "collection_spacing": 0,
+        "count_font_size": 14,
+        "count_font_weight": 400,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "collection_list_PVWPbW": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_item_LgEg7Q": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Glory · Statement presence",
+            "collection": "glory",
+            "image": "shopify://shop_images/021___1.png"
+          }
+        },
+        "collection_item_gYycHf": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Luxe · Elevated everyday",
+            "collection": "luxe",
+            "image": "shopify://shop_images/039___2.png"
+          }
+        },
+        "collection_item_yFRYPc": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "Muse · Delicate layers",
+            "collection": "muse",
+            "image": "shopify://shop_images/062___1.png"
+          }
+        }
+      },
+      "block_order": ["collection_item_LgEg7Q", "collection_item_gYycHf", "collection_item_yFRYPc"],
+      "custom_css": [
+        ".design-2 .bls__collection-infor {text-align: left;}",
+        "@media screen and (max-width: 768px) {.bls__collection-items {flex: 0 0 100%; max-width: 100%; }}"
+      ],
+      "settings": {
+        "heading_logo_svg": "",
+        "heading": "Shop by collection",
+        "description": "<p><strong>Glory</strong> for bold moments, <strong>Luxe</strong> for refined daily wear, <strong>Muse</strong> for light, stackable layers.</p>",
+        "text_alignment": "text-center",
+        "container": "strecth-width",
+        "color_scheme": "",
+        "design_layout": "grid",
+        "design_collection": "design-3",
+        "hover_effect": "zoom",
+        "show_count_product": false,
+        "custom_width_images": false,
+        "width_image": 200,
+        "images_style": false,
+        "image_ratio": "3/4",
+        "custom_ratio": "476:450",
+        "custom_column": 3,
+        "column_gap": 30,
+        "collection_font_size": 20,
+        "collection_font_weight": 400,
+        "collection_spacing": 0,
+        "count_font_size": 14,
+        "count_font_weight": 400,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "banner_with_text_9B3t4X": {
+      "type": "banner-with-text",
+      "blocks": {
+        "heading_rATNEH": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Story",
+            "heading_fs": 32,
+            "heading_fw": "default",
+            "heading_tf": "uppercase",
+            "heading_mt": 0,
+            "heading_mb": 10
+          }
+        },
+        "text_JDwPUH": {
+          "type": "text",
+          "settings": {
+            "txt_content": "<p>Inspired by Korean <em>so-hwa</em> (素和, “plain harmony”), we shape natural pearls into modern jewelry you can live in—not save for someday.</p>",
+            "txt_fs": 16,
+            "txt_fw": "default",
+            "txt_tf": "unset",
+            "txt_mt": 0,
+            "txt_mb": 25
+          }
+        },
+        "buttons_pTChBp": {
+          "type": "buttons",
+          "settings": {
+            "btn_content": "Read our story",
+            "button_type": "link",
+            "button_link": "shopify://pages/our-story",
+            "button_target": false,
+            "b_mt": 0,
+            "b_mb": 15
+          }
+        }
+      },
+      "block_order": ["heading_rATNEH", "text_JDwPUH", "buttons_pTChBp"],
+      "name": "t:sections.banner-with-text.name",
+      "settings": {
+        "container": "full-width",
+        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
+        "image_behavior": "none",
+        "banner_type": "image",
+        "image": "shopify://shop_images/2_d12e96df-c52f-43d8-96c7-363ae3b77e01.png",
+        "image_mobile": "shopify://shop_images/Pearl_Mission_10.png",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "link": "",
+        "open_link": "_self",
+        "bn_design": "text_overlay",
+        "text_align": "text-center",
+        "text_horizontal_position": "center",
+        "text_position": "bottom",
+        "content_bg_color": "",
+        "background_gradient": "",
+        "content_width": 40,
+        "banner_height": "depend-image",
+        "height_dk": 800,
+        "height_tb": 600,
+        "height_mb": 360,
+        "height_full": false,
+        "content_box": "content_in_container",
+        "bg_opacity": 100,
+        "text_bellow_mobile": false,
+        "img_position": "left",
+        "banner_width": "col-md-6",
+        "column_gap": 30,
+        "hover_effect": "none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "custom_text_pWgJkH": {
+      "type": "custom-text",
+      "blocks": {
+        "desc_N9AzFJ": {
+          "type": "desc",
+          "settings": {
+            "desc": "<p><em>Natural pearls vary in shape, size, and luster—that uniqueness is part of the design.</em></p>",
+            "desc_fs": 18,
+            "desc_fw": "default",
+            "content_width": 70,
+            "desc_tf": "unset",
+            "desc_mt": 0,
+            "desc_mb": 0
+          }
+        }
+      },
+      "block_order": ["desc_N9AzFJ"],
+      "name": "t:sections.custom-content.name",
+      "settings": {
+        "container": "container",
+        "text_align": "text-center",
+        "color_scheme": "",
+        "custom_class": "",
+        "padding_top": 28,
+        "padding_bottom": 12,
+        "reset_spacing": false
+      }
+    },
+    "testimonial_zGbK9P": {
+      "type": "testimonial",
+      "blocks": {
+        "testimonials_GzYqeY": {
+          "type": "testimonials",
+          "settings": {
+            "title_text": "",
+            "description": "<p><em>\"The craftsmanship is impeccable. The gold vermeil setting feels luxurious, and the pearls are so elegant. Shipping was fast too!\"</em></p>",
+            "author": "Lily M.",
+            "job": "January 28, 2026",
+            "image": "shopify://shop_images/17.png",
+            "testimonial_width": 100
+          }
+        },
+        "testimonials_BCiEmm": {
+          "type": "testimonials",
+          "settings": {
+            "title_text": "",
+            "description": "<p><em>\"I bought this as a gift for my sister and she adores it. Each piece feels so special and personalized. Definitely worth every penny.\"</em></p>",
+            "author": "Sophie R.",
+            "job": "February 15, 2026",
+            "image": "shopify://shop_images/18.png",
+            "testimonial_width": 100
+          }
+        },
+        "testimonials_H76HMM": {
+          "type": "testimonials",
+          "settings": {
+            "title_text": "",
+            "description": "<p><em>\"Absolutely in love with my pearl necklace! The pearls are unique and have such a natural luster. I wear it every day and always get compliments.\"</em></p>",
+            "author": "Emma L.",
+            "job": "March 12, 2026",
+            "image": "shopify://shop_images/16.png",
+            "testimonial_width": 100
+          }
+        }
+      },
+      "block_order": ["testimonials_GzYqeY", "testimonials_BCiEmm", "testimonials_H76HMM"],
+      "custom_css": [
+        ".bls__tes-rate .star svg,.bls__tes-rate .star svg path {fill: #d4af37;}",
+        ".swiper-initialized .bls-loaded-image {border-radius: 50% !important; overflow: hidden;}",
+        ".bls__tes-item {border-radius: 0 !important; border: none !important; background: #e8e2d6; position: relative; z-index: 2;}",
+        ".swiper,.swiper-container,.swiper-wrapper,.swiper-slide {overflow: visible !important;}"
+      ],
+      "name": "t:sections.testimonials.name",
+      "settings": {
+        "heading_logo_svg": "",
+        "subheading": "★★★★★ 4.8 / 5 · Recent customer reviews",
+        "heading": "What People Are Saying",
+        "description": "",
+        "text_align": "text-center",
+        "container": "strecth-width",
+        "color_scheme": "scheme-6616aa44-7b5e-4f3f-9afe-860805c889bb",
+        "content_width": 100,
+        "design": "design_1",
+        "testi_text_size": "small",
+        "show_rating": true,
+        "img_view": "default",
+        "img_position": "position-top",
+        "car_gap": 30,
+        "carousel_item_desktop": 3,
+        "autoplay": true,
+        "loop": true,
+        "show_arrow": true,
+        "reveal_on_scroll": true,
+        "pagination_style": "dots",
+        "padding_top": 42,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "instagram_zkxFQf": {
+      "type": "instagram",
+      "blocks": {
+        "ig_img_local_UkRMYK": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/241___2_098979fb-4329-44ee-8699-d4cbe05a4b6d.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        },
+        "ig_img_local_CMmpQr": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/136___3.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        },
+        "ig_img_local_8C9Xka": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/035___2_777376dc-349c-4ee0-88bd-511294f17ab3.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        },
+        "ig_img_local_UCLMgp": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/021___3.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        },
+        "ig_img_local_6kDW7V": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/021___2_c0529429-8e4e-412b-91ae-cc370bdbd9ce.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        },
+        "ig_img_local_dhjwLg": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/021___1_eb98203f-e38d-439e-a728-787ac49feaec.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        },
+        "ig_img_local_JdbCY8": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_up_image": "shopify://shop_images/065___2_4fa9c256-c3b3-4b78-84d1-395290648ffd.png",
+            "ig_link": "https://www.instagram.com/"
+          }
+        }
+      },
+      "block_order": [
+        "ig_img_local_UkRMYK",
+        "ig_img_local_CMmpQr",
+        "ig_img_local_8C9Xka",
+        "ig_img_local_UCLMgp",
+        "ig_img_local_6kDW7V",
+        "ig_img_local_dhjwLg",
+        "ig_img_local_JdbCY8"
+      ],
+      "name": "t:sections.instagram.name",
+      "settings": {
+        "heading_logo_svg": "",
+        "subheading": "Editorial & inspiration",
+        "heading": "On the moodboard",
+        "description": "<p>Real pieces and natural luster—follow us on Instagram for styling ideas (replace links below with your profile or posts).</p>",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "column_gap": 10,
+        "ig_image_show": "ig_type_local",
+        "aspect_ratio": "3/4",
+        "ig_ac": "",
+        "ig_num_imgs": 8,
+        "ig_type": "carousel",
+        "images_per_row_grid_d": 6,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": false,
+        "carousel_pagination": "carousel_none",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "blog_posts_n8KqQt": {
+      "type": "blog-posts",
+      "name": "t:sections.blog-posts.name",
+      "settings": {
+        "heading_logo_svg": "",
+        "subheading": "Care, style & new drops",
+        "heading": "From the journal",
+        "description": "",
+        "text_align": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "blog": "blog",
+        "num_post_show": 2,
+        "post_item_desktop": 2,
+        "column_gap": 30,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "carousel_pagination": "carousel_none",
+        "aspect_ratio": "16/9",
+        "custom_ratio": "21:9",
+        "hover_effect": "zoom",
+        "post_show_author": false,
+        "post_show_category": false,
+        "post_show_date": false,
+        "post_show_excerpt": true,
+        "post_show_button": true,
+        "post_content_center": false,
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "reset_spacing": false
+      }
+    },
+    "banner_with_text_ra3pHR": {
+      "type": "banner-with-text",
+      "blocks": {
+        "heading_MMbfWd": {
+          "type": "heading",
+          "settings": {
+            "title": "Orders & answers",
+            "heading_fs": 32,
+            "heading_fw": "default",
+            "heading_tf": "uppercase",
+            "heading_mt": 0,
+            "heading_mb": 10
+          }
+        },
+        "text_p8h3zz": {
+          "type": "text",
+          "settings": {
+            "txt_content": "<p><strong>Free shipping</strong> within the U.S. International: <strong>free over $49</strong>, or <strong>$4.99</strong> flat. Returns within <strong>30 days</strong> on unworn items—please email us before you send anything back.</p><p>Questions? We usually reply within one business day.</p>",
+            "txt_fs": 16,
+            "txt_fw": "default",
+            "txt_tf": "unset",
+            "txt_mt": 0,
+            "txt_mb": 25
+          }
+        },
+        "buttons_EkGG8g": {
+          "type": "buttons",
+          "settings": {
+            "btn_content": "Contact us",
+            "button_type": "link",
+            "button_link": "shopify://pages/contact",
+            "button_target": false,
+            "b_mt": 0,
+            "b_mb": 15
+          }
+        }
+      },
+      "block_order": ["heading_MMbfWd", "text_p8h3zz", "buttons_EkGG8g"],
+      "name": "t:sections.banner-with-text.name",
+      "settings": {
+        "container": "full-width",
+        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
+        "image_behavior": "fixed",
+        "banner_type": "image",
+        "image": "shopify://shop_images/Pearl_Mission_5.png",
+        "image_mobile": "shopify://shop_images/Pearl_Mission_6.png",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "link": "",
+        "open_link": "_self",
+        "bn_design": "text_overlay",
+        "text_align": "text-center",
+        "text_horizontal_position": "center",
+        "text_position": "bottom",
+        "content_bg_color": "",
+        "background_gradient": "",
+        "content_width": 48,
+        "banner_height": "custom-height",
+        "height_dk": 520,
+        "height_tb": 500,
+        "height_mb": 520,
+        "height_full": false,
+        "content_box": "content_in_container",
+        "bg_opacity": 100,
+        "text_bellow_mobile": false,
+        "img_position": "left",
+        "banner_width": "col-md-6",
+        "column_gap": 30,
+        "hover_effect": "none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    }
+  },
+  "order": [
+    "0c521c75-5d82-4dd6-aecc-f519d8907411",
+    "icon_box_wbiFcY",
+    "products_carousel_GN8Uh8",
+    "48263d1a-f37b-4715-893a-ac5dfd296a1a",
+    "collection_list_PVWPbW",
+    "banner_with_text_9B3t4X",
+    "custom_text_pWgJkH",
+    "testimonial_zGbK9P",
+    "instagram_zkxFQf",
+    "blog_posts_n8KqQt",
+    "banner_with_text_ra3pHR"
+  ]
+}
