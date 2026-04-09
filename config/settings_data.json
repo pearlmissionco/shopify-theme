@@ -287,6 +287,10 @@
         "block_order": [
           "fd8c507a-a402-4ccc-b440-8e60e259f0f1"
         ],
+        "custom_css": [
+          "/* Fix: topbar covering announcement bar */.announcement-bar,.announcement_bar {position: relative; z-index: 3;}",
+          ".topbar {position: relative; z-index: 1;}"
+        ],
         "settings": {
           "container": "full-width",
           "show_announcement": true,
