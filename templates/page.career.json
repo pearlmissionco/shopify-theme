@@ -15,7 +15,7 @@
                 "template--16777177465079__8a621b44-193d-4aa5-afb8-1db52f9622d0-1688207697b1a60c5f-0": {
                     "type": "sub_heading",
                     "settings": {
-                        "sub_heading": "<p>hello guys! 😍<\/p>",
+                        "sub_heading": "<p>Join the Pearl Mission Team<\/p>",
                         "sub_fs": 12,
                         "sub_tf": "uppercase",
                         "sub_mt": 0,
@@ -25,9 +25,9 @@
                 "template--16777177465079__8a621b44-193d-4aa5-afb8-1db52f9622d0-1688207697b1a60c5f-1": {
                     "type": "heading",
                     "settings": {
-                        "heading": "Go Home<br>We Are A Family",
-                        "heading_fs": 80,
-                        "heading_tf": "unset",
+                        "heading": "Work With Us",
+                        "heading_fs": 40,
+                        "heading_tf": "uppercase",
                         "heading_mt": 0,
                         "heading_mb": 25
                     }
@@ -35,7 +35,7 @@
                 "template--16777177465079__8a621b44-193d-4aa5-afb8-1db52f9622d0-1688207697b1a60c5f-2": {
                     "type": "desc",
                     "settings": {
-                        "desc": "<p>Welcoming new people to our teams, each with a diverse skillset and background, is the catalyst for innovation and transformation.<\/p>",
+                        "desc": "<p>We are a small, passionate team building a jewelry brand rooted in natural beauty and intentional craft. If you share our values, we would love to hear from you.<\/p>",
                         "desc_fs": 16,
                         "content_width": 50,
                         "desc_tf": "unset",
@@ -46,7 +46,7 @@
                 "7deade83-ba01-42b8-82c9-acb1a443ff0f": {
                     "type": "buttons",
                     "settings": {
-                        "btn_content": "See Available Career",
+                        "btn_content": "View Open Positions",
                         "button_type": "primary",
                         "button_link": "",
                         "button_target": false,
@@ -67,7 +67,7 @@
                 "text_align": "text-center",
                 "color_scheme": "",
                 "custom_class": "custom-content-carrer",
-                "padding_top": 100,
+                "padding_top": 48,
                 "padding_bottom": 0,
                 "reset_spacing": false
             }

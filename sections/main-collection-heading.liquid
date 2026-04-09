@@ -47,7 +47,11 @@
                   class="heading-title"
                   style="--text-fs: {{ block.settings.text_fs }}px;"
                 >
-                  {{ collection.title }}
+                  {%- if block.settings.custom_title != blank -%}
+                    {{ block.settings.custom_title }}
+                  {%- else -%}
+                    {{ collection.title }}
+                  {%- endif -%}
                 </h1>
               {%- when '2' -%}
                 <div
@@ -246,6 +250,12 @@
       "name": "t:sections.all.header.title",
       "limit": 1,
       "settings": [
+        {
+          "type": "text",
+          "id": "custom_title",
+          "label": "Custom title",
+          "info": "Leave blank to use the collection name"
+        },
         {
           "type": "range",
           "id": "text_fs",

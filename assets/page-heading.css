@@ -31,7 +31,9 @@
     color: var(--heading-color);
     font-size: clamp(3rem, 4vw, var(--text-fs, 3.6rem));
     margin-bottom: .5rem;
-
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: unset;
 }
 
 .heading-description,

@@ -130,22 +130,49 @@
           </div>
         {%- endif -%}
         {%- if heading != blank -%}
+          {%- if heading == '__collection_title__' -%}
+            {%- if collection.handle == 'all' -%}
+              {%- assign heading_output = 'Our Collection' -%}
+            {%- elsif collection != blank -%}
+              {%- assign heading_output = collection.title -%}
+            {%- else -%}
+              {%- assign heading_output = blank -%}
+            {%- endif -%}
+          {%- else -%}
+            {%- assign heading_output = heading -%}
+          {%- endif -%}
+          {%- if heading_output != blank -%}
           <h2
             {{ block.shopify_attributes }}
             class="bls__section-heading mb-5 {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
             style="--heading-font-size: {{ heading_fs }}px;{% if heading_fw != 'default' %}--cutsom-heading-font-weight: {{ heading_fw }};{% endif %}{%- if heading_color != blank -%}--heading-color: {{ heading_color }};{%- endif -%}--heading-transform: {{ heading_tf }};--heading-mt: {{ heading_mt }}px;--heading-mb: {{ heading_mb }}px;"
           >
-            {{ heading }}
+            {{ heading_output }}
           </h2>
+          {%- endif -%}
         {%- endif -%}
         {%- if desc != blank -%}
+          {%- assign desc_stripped = desc | strip_html | strip -%}
+          {%- if desc_stripped == '__collection_subtitle__' -%}
+            {%- if collection.handle == 'all' -%}
+              {%- assign desc_output = '<em>Each piece tells a story. Find yours.</em>' -%}
+            {%- elsif collection.description != blank -%}
+              {%- assign desc_output = collection.description -%}
+            {%- else -%}
+              {%- assign desc_output = blank -%}
+            {%- endif -%}
+          {%- else -%}
+            {%- assign desc_output = desc -%}
+          {%- endif -%}
+          {%- if desc_output != blank -%}
           <div
             {{ block.shopify_attributes }}
             class="bls__section-des {% if enabled_animations %}scroll-trigger animate--slide-in{% endif %}"
             style="--content_width: {{ content_width }}%;--desc-font-size: {{ desc_fs }}px;{% if desc_fw != 'default' %}--desc-font-weight: {{ desc_fw }}{% endif %};{%- if desc_color != blank -%}--desc-color: {{ desc_color }};{%- endif -%}--desc-transform: {{ desc_tf }};--desc-mt: {{ desc_mt }}px;--desc-mb: {{ desc_mb }}px;"
           >
-            {{ desc }}
+            {{ desc_output }}
           </div>
+          {%- endif -%}
         {%- endif -%}
         {%- if block.settings.btn_content != blank -%}
           <a

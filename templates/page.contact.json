@@ -1,1 +1,129 @@
-{"sections":{"banner_with_text_exBAdC":{"type":"banner-with-text","disabled":true,"name":"t:sections.banner-with-text.name","settings":{"container":"full-width","color_scheme":"","image_behavior":"none","banner_type":"image","image":"shopify:\/\/shop_images\/062___4.png","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","link":"","open_link":"_self","bn_design":"text_overlay","text_align":"text-center","text_horizontal_position":"center","text_position":"center","content_bg_color":"","background_gradient":"","content_width":100,"banner_height":"custom-height","height_dk":300,"height_tb":300,"height_mb":360,"height_full":false,"content_box":"content_in_container","bg_opacity":100,"text_bellow_mobile":false,"img_position":"left","banner_width":"col-md-6","column_gap":30,"hover_effect":"none","padding_top":0,"padding_bottom":0,"reset_spacing":true}},"banner_with_text_ca37Nj":{"type":"banner-with-text","name":"t:sections.banner-with-text.name","settings":{"container":"full-width","color_scheme":"default-color-scheme","image_behavior":"none","banner_type":"image","image":"shopify:\/\/shop_images\/Pearl_Mission.png","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","link":"","open_link":"_self","bn_design":"text_column","text_align":"text-center","text_horizontal_position":"center","text_position":"center","content_bg_color":"","background_gradient":"","content_width":100,"banner_height":"custom-height","height_dk":700,"height_tb":700,"height_mb":360,"height_full":false,"content_box":"content_in_container","bg_opacity":100,"text_bellow_mobile":false,"img_position":"left","banner_width":"col-md-6","column_gap":30,"hover_effect":"none","padding_top":34,"padding_bottom":0,"reset_spacing":true}},"main":{"type":"page-contact","custom_css":["input[type=\"search\"],input[type=\"tel\"],input[type=\"text\"],input[type=\"number\"],input[type=\"email\"],input[type=\"date\"],input[type=\"password\"],select,textarea {padding: var(--input-padding); border: 1px solid #999; background: #f9f7f2;}","@media (min-width: 1200px) {.strecth-width, .container-fluid, .container {margin-left: auto; margin-right: 0; padding-left: calc(var(--bs-gutter-x) * 0.5); width: 50%; text-align: left; margin-top: -725px; padding-bottom: 40px; }}"],"settings":{"container":"container","iframe":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3154.8939060848147!2d144.81158271584684!3d-37.74563313792195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65fa6debeb781%3A0xe1d23f5d1759961e!2s184%20Main%20Rd%20E%2C%20St%20Albans%20VIC%203021%2C%20%C3%9Ac!5e0!3m2!1svi!2s!4v1618277125252!5m2!1svi!2s\" width=\"100%\" height=\"500\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"><\/iframe>","show_map":false,"contact_form_heading":"Get in Touch","contact_form_sub_heading":"<p>We'd love to hear from you about our entire service. Your comments and suggestions will be highly appreciated. Please complete the form below.<\/p>","contact_info_heading":"","contact_info_sub_heading":"","store_1":"","contact_info_content":"","store_2":"","contact_info_content_2":"","store_3":"","contact_info_content_3":""}}},"order":["banner_with_text_exBAdC","banner_with_text_ca37Nj","main"]}
+{
+    "sections":  {
+                     "banner_with_text_exBAdC":  {
+                                                     "type":  "banner-with-text",
+                                                     "disabled":  true,
+                                                     "name":  "t:sections.banner-with-text.name",
+                                                     "settings":  {
+                                                                      "container":  "full-width",
+                                                                      "color_scheme":  "",
+                                                                      "image_behavior":  "none",
+                                                                      "banner_type":  "image",
+                                                                      "image":  "shopify://shop_images/062___4.png",
+                                                                      "video_url":  "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+                                                                      "link":  "",
+                                                                      "open_link":  "_self",
+                                                                      "bn_design":  "text_overlay",
+                                                                      "text_align":  "text-center",
+                                                                      "text_horizontal_position":  "center",
+                                                                      "text_position":  "center",
+                                                                      "content_bg_color":  "",
+                                                                      "background_gradient":  "",
+                                                                      "content_width":  100,
+                                                                      "banner_height":  "custom-height",
+                                                                      "height_dk":  300,
+                                                                      "height_tb":  300,
+                                                                      "height_mb":  360,
+                                                                      "height_full":  false,
+                                                                      "content_box":  "content_in_container",
+                                                                      "bg_opacity":  100,
+                                                                      "text_bellow_mobile":  false,
+                                                                      "img_position":  "left",
+                                                                      "banner_width":  "col-md-6",
+                                                                      "column_gap":  30,
+                                                                      "hover_effect":  "none",
+                                                                      "padding_top":  0,
+                                                                      "padding_bottom":  0,
+                                                                      "reset_spacing":  true
+                                                                  }
+                                                 },
+                     "banner_with_text_ca37Nj":  {
+                                                     "type":  "banner-with-text",
+                                                     "name":  "t:sections.banner-with-text.name",
+                                                     "settings":  {
+                                                                      "container":  "full-width",
+                                                                      "color_scheme":  "default-color-scheme",
+                                                                      "image_behavior":  "none",
+                                                                      "banner_type":  "image",
+                                                                      "image":  "shopify://shop_images/Pearl_Mission.png",
+                                                                      "video_url":  "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+                                                                      "link":  "",
+                                                                      "open_link":  "_self",
+                                                                      "bn_design":  "text_column",
+                                                                      "text_align":  "text-center",
+                                                                      "text_horizontal_position":  "center",
+                                                                      "text_position":  "center",
+                                                                      "content_bg_color":  "",
+                                                                      "background_gradient":  "",
+                                                                      "content_width":  100,
+                                                                      "banner_height":  "custom-height",
+                                                                      "height_dk":  700,
+                                                                      "height_tb":  700,
+                                                                      "height_mb":  360,
+                                                                      "height_full":  false,
+                                                                      "content_box":  "content_in_container",
+                                                                      "bg_opacity":  100,
+                                                                      "text_bellow_mobile":  false,
+                                                                      "img_position":  "left",
+                                                                      "banner_width":  "col-md-6",
+                                                                      "column_gap":  30,
+                                                                      "hover_effect":  "none",
+                                                                      "padding_top":  34,
+                                                                      "padding_bottom":  0,
+                                                                      "reset_spacing":  true
+                                                                  }
+                                                 },
+                     "main":  {
+                                  "type":  "page-contact",
+                                  "custom_css":  [
+                                                     "input[type=\"search\"],input[type=\"tel\"],input[type=\"text\"],input[type=\"number\"],input[type=\"email\"],input[type=\"date\"],input[type=\"password\"],select,textarea {padding: var(--input-padding); border: 1px solid #999; background: #f9f7f2;}",
+                                                     "@media (min-width: 1200px) {.strecth-width, .container-fluid, .container {margin-left: auto; margin-right: 0; padding-left: calc(var(--bs-gutter-x) * 0.5); width: 50%; text-align: left; margin-top: -725px; padding-bottom: 40px; }}"
+                                                 ],
+                                  "settings":  {
+                                                   "container":  "container",
+                                                   "iframe":  "\u003ciframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.8939060848147!2d144.81158271584684!3d-37.74563313792195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65fa6debeb781%3A0xe1d23f5d1759961e!2s184%20Main%20Rd%20E%2C%20St%20Albans%20VIC%203021%2C%20%C3%9Ac!5e0!3m2!1svi!2s!4v1618277125252!5m2!1svi!2s\" width=\"100%\" height=\"500\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+                                                   "show_map":  false,
+                                                   "contact_form_heading":  "Get in Touch",
+                                                   "contact_form_sub_heading":  "\u003cp\u003eWe\u0027d love to hear from you about our entire service. Your comments and suggestions will be highly appreciated. Please complete the form below.\u003c/p\u003e",
+                                                   "contact_info_heading":  "",
+                                                   "contact_info_sub_heading":  "",
+                                                   "store_1":  "",
+                                                   "contact_info_content":  "",
+                                                   "store_2":  "",
+                                                   "contact_info_content_2":  "",
+                                                   "store_3":  "",
+                                                   "contact_info_content_3":  ""
+                                               }
+                              },
+                     "page-heading":  {
+                                          "type":  "page-heading",
+                                          "blocks":  {
+                                                         "title":  {
+                                                                       "type":  "1",
+                                                                       "settings":  {
+                                                                                        "page_title":  "",
+                                                                                        "text_fs":  45
+                                                                                    }
+                                                                   }
+                                                     },
+                                          "block_order":  [
+                                                              "title"
+                                                          ],
+                                          "settings":  {
+                                                           "show_banner":  false,
+                                                           "min_height":  200,
+                                                           "parallax":  false,
+                                                           "show_overlay":  false,
+                                                           "overlay":  54,
+                                                           "design":  "text-overlay-image",
+                                                           "text_postion":  "text-center"
+                                                       }
+                                      }
+                 },
+    "order":  [
+                  "page-heading",
+                  "banner_with_text_exBAdC",
+                  "banner_with_text_ca37Nj",
+                  "main"
+              ]
+}
