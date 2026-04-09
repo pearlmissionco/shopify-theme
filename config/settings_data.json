@@ -280,7 +280,7 @@
             "type": "announcement",
             "settings": {
               "text": "<p>✨ FREE SHIPPING ON ORDERS OVER  | DISCOVER EVERYDAY ELEGANCE</p>",
-              "countdown_deadline": "12-20-2024"
+              "countdown_deadline": "12-20-2026"
             }
           }
         },
@@ -338,6 +338,14 @@
               "custom_width": 900
             }
           },
+          "html_shopall_01": {
+            "type": "html",
+            "settings": {
+              "html": "<a href=\"/collections/all\" style=\"display:flex;align-items:center;justify-content:space-between;padding:10px 0;color:var(--primary-color);font-size:inherit;font-weight:500;border-bottom:1px solid var(--border-color-base);margin-bottom:6px;\">Shop All</a>",
+              "page": "",
+              "col": "12"
+            }
+          },
           "link_3NPBdH": {
             "type": "link",
             "settings": {
@@ -373,13 +381,6 @@
               "overlap_top": false,
               "space_banner": 0,
               "col": "4"
-            }
-          },
-          "html_shopall_01": {
-            "type": "html",
-            "settings": {
-              "html": "<a href=\"/collections/all\" style=\"display:flex;align-items:center;justify-content:space-between;padding:10px 0;color:var(--primary-color);font-size:inherit;font-weight:500;border-bottom:1px solid var(--border-color-base);margin-bottom:6px;\">Shop All</a>",
-              "col": "12"
             }
           },
           "single_link_GPHYnP": {

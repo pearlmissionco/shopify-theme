@@ -110,7 +110,7 @@
           "settings": {
             "icon": "shopify://shop_images/15.png",
             "heading": "Solid Metals",
-            "description": "<p>Sterling silver and 18K gold vermeil\u2014substantial, lasting settings that honor each pearl.</p>"
+            "description": "<p>Sterling silver and 18K gold vermeil—substantial, lasting settings that honor each pearl.</p>"
           }
         },
         "iconbox_VJh9TF": {
@@ -118,15 +118,15 @@
           "settings": {
             "icon": "shopify://shop_images/14.png",
             "heading": "Daily Wear",
-            "description": "<p>Lightweight, versatile pieces designed to move with you\u2014workday elegance without sacrifice.</p>"
+            "description": "<p>Lightweight, versatile pieces designed to move with you—workday elegance without sacrifice.</p>"
           }
         },
         "trust_shipping_returns": {
           "type": "iconbox",
           "settings": {
+            "icon": "shopify://shop_images/icon_shipping.png",
             "heading": "Global Shipping",
-            "description": "<p>Free shipping on orders over . 30-day hassle-free returns on all orders.</p>",
-            "icon": "shopify://shop_images/19.png"
+            "description": "<p>Free shipping on orders over . 30-day hassle-free returns on all orders.</p>"
           }
         }
       },
@@ -202,7 +202,7 @@
         "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-0": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Earrings \u00b7 Studs to drops",
+            "title_collection": "Earrings · Studs to drops",
             "collection": "earrings",
             "image": "shopify://shop_images/065___3.png"
           }
@@ -210,7 +210,7 @@
         "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-1": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Bracelets \u00b7 Layer-friendly",
+            "title_collection": "Bracelets · Layer-friendly",
             "collection": "bracelets",
             "image": "shopify://shop_images/062___3.png"
           }
@@ -218,7 +218,7 @@
         "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-2": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Rings \u00b7 Quiet shine",
+            "title_collection": "Rings · Quiet shine",
             "collection": "rings",
             "image": "shopify://shop_images/039___2_e232015e-efe9-44bb-bc09-d0b3e250fd8c.png"
           }
@@ -226,7 +226,7 @@
         "template--16567751082231__48263d1a-f37b-4715-893a-ac5dfd296a1a-1666406556386d69e7-3": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Necklaces \u00b7 Everyday icons",
+            "title_collection": "Necklaces · Everyday icons",
             "collection": "necklaces",
             "image": "shopify://shop_images/241___2_e0e39e0e-03c5-42e9-b56e-d9234e0d41e7.png"
           }
@@ -244,7 +244,7 @@
       "settings": {
         "heading_logo_svg": "",
         "heading": "Shop by category",
-        "description": "<p>Choose a silhouette\u2014every piece is built around natural pearls and precious metals.</p>",
+        "description": "<p>Choose a silhouette—every piece is built around natural pearls and precious metals.</p>",
         "text_alignment": "text-center",
         "container": "strecth-width",
         "color_scheme": "",
@@ -280,7 +280,7 @@
         "collection_item_LgEg7Q": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Glory \u00b7 Statement presence",
+            "title_collection": "Glory · Statement presence",
             "collection": "glory",
             "image": "shopify://shop_images/021___1.png"
           }
@@ -288,7 +288,7 @@
         "collection_item_gYycHf": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Luxe \u00b7 Elevated everyday",
+            "title_collection": "Luxe · Elevated everyday",
             "collection": "luxe",
             "image": "shopify://shop_images/039___2.png"
           }
@@ -296,7 +296,7 @@
         "collection_item_yFRYPc": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "Muse \u00b7 Delicate layers",
+            "title_collection": "Muse · Delicate layers",
             "collection": "muse",
             "image": "shopify://shop_images/062___1.png"
           }
@@ -369,7 +369,9 @@
         "text_view_all": "View all products",
         "enable_banner": false,
         "banner_type": "image",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "banner_position": "position-left",
+        "banner_link": "",
         "banner_width": 30,
         "padding_top": 48,
         "padding_bottom": 0,
@@ -393,7 +395,7 @@
         "text_JDwPUH": {
           "type": "text",
           "settings": {
-            "txt_content": "<p>Inspired by Korean <em>so-hwa</em> (\u7d20\u548c, \u201cplain harmony\u201d), we shape natural pearls into modern jewelry you can live in\u2014not save for someday.</p>",
+            "txt_content": "<p>Inspired by Korean <em>so-hwa</em> (素和, “plain harmony”), we shape natural pearls into modern jewelry you can live in—not save for someday.</p>",
             "txt_fs": 16,
             "txt_fw": "default",
             "txt_tf": "unset",
@@ -459,7 +461,7 @@
         "desc_N9AzFJ": {
           "type": "desc",
           "settings": {
-            "desc": "<p><em>Natural pearls vary in shape, size, and luster\u2014that uniqueness is part of the design.</em></p>",
+            "desc": "<p><em>Natural pearls vary in shape, size, and luster—that uniqueness is part of the design.</em></p>",
             "desc_fs": 18,
             "desc_fw": "default",
             "content_width": 70,
@@ -534,7 +536,7 @@
       "name": "t:sections.testimonials.name",
       "settings": {
         "heading_logo_svg": "",
-        "subheading": "\u2605\u2605\u2605\u2605\u2605 4.8 / 5 \u00b7 Recent customer reviews",
+        "subheading": "★★★★★ 4.8 / 5 · Recent customer reviews",
         "heading": "What People Are Saying",
         "description": "",
         "text_align": "text-center",
@@ -625,7 +627,7 @@
         "heading_logo_svg": "",
         "subheading": "Editorial & inspiration",
         "heading": "On the moodboard",
-        "description": "<p>Real pieces and natural luster\u2014follow us on Instagram for styling ideas (replace links below with your profile or posts).</p>",
+        "description": "<p>Real pieces and natural luster—follow us on Instagram for styling ideas (replace links below with your profile or posts).</p>",
         "text_alignment": "text-center",
         "container": "container-fluid",
         "color_scheme": "",
@@ -695,7 +697,7 @@
         "text_p8h3zz": {
           "type": "text",
           "settings": {
-            "txt_content": "<p><strong>Free shipping</strong> within the U.S. International: <strong>free over $49</strong>, or <strong>$4.99</strong> flat. Returns within <strong>30 days</strong> on unworn items\u2014please email us before you send anything back.</p><p>Questions? We usually reply within one business day.</p>",
+            "txt_content": "<p><strong>Free shipping</strong> within the U.S. International: <strong>free over $49</strong>, or <strong>$4.99</strong> flat. Returns within <strong>30 days</strong> on unworn items—please email us before you send anything back.</p><p>Questions? We usually reply within one business day.</p>",
             "txt_fs": 16,
             "txt_fw": "default",
             "txt_tf": "unset",
