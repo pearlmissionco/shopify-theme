@@ -167,8 +167,8 @@
       "name": "t:sections.products-carousel.name",
       "settings": {
         "heading_logo_svg": "",
-        "subheading": "Curated Selection",
-        "heading": "Our Best Styles",
+        "subheading": "The pieces you love most, curated for everyday beauty.",
+        "heading": "Our Signature Pick",
         "description": "<p>Bestsellers and showstoppers from both Luxe and Glory collections. Start here to discover your Pearl Mission essentials.</p>",
         "text_alignment": "text-left",
         "container": "strecth-width",
@@ -754,21 +754,10 @@
         "padding_bottom": 0,
         "reset_spacing": true
       }
-    },
-    "hero_product_section": {
-      "type": "product-single",
-      "settings": {
-        "single_product": "diamond-accent-pearl-ring",
-        "heading": "Our Signature Pick",
-        "subheading": "Timeless Pearl meets Modern Sparkle",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
     }
   },
   "order": [
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
-    "hero_product_section",
     "icon_box_wbiFcY",
     "products_carousel_GN8Uh8",
     "48263d1a-f37b-4715-893a-ac5dfd296a1a",
